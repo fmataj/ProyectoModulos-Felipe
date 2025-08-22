@@ -1,4 +1,3 @@
-# ProyectoModulos-Felipe
-# Autor Felipe Mata Jimenez 
-##Especialidad Administracion y Soporte a redes de Computacion
-Aprender a trabajar con modulos
+# Class05_Archivos_Modularizacion_Python
+ Gestión de Archivos y Modularización en Python
+ Prof. Andrés Mena Abarca
