@@ -3,7 +3,7 @@ import random
 def generar_lista_compras():
     compras = {}
     canasta_basica = {
-                'Arroz': 2000,
+        'Arroz': 2000,
         'Frijoles': 1500,
         'Huevos':1300,
         'Aceite':2500,
@@ -28,7 +28,9 @@ def generar_lista_compras():
     
     for i in lista_seleccionada:
         compras[i] = canasta_basica[i]
-    #print(lista_seleccionada)
+    #print(compras)
     return compras
+
+
 if __name__ == "__main__":
-    generar_lista_compras()
+    print(generar_lista_compras())
